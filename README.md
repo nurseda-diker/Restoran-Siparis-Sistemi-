@@ -1,1 +1,1 @@
-# Restoran-Sipari-Sistemi-
+# Restoran-Siparis-Sistemi-
